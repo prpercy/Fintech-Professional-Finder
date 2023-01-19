@@ -4,7 +4,6 @@
  
 ---
 > Fintech Finder is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them instantly.
-> xxx
 ---
 
 The goal of the program is to achieve following:
@@ -12,15 +11,7 @@ The goal of the program is to achieve following:
 * Write web interface of the applicatiom
 * Integrate transaction functions and web interface
 
-> Initial state (before transaction)
-![app](images/prior_balances.png)
-
-> Select Fintech Professional, hire him and pay him
-![app](images/transaction.png)
-
-> Post transaction balances
-![app](images/new_balances.png)
-
+---
 
 ## Technologies
 
@@ -34,6 +25,7 @@ The goal of the program is to achieve following:
 Please install packages: Streamlit and Dataclasses using PIP Install {pkg}.
 
 ---
+
 ## Usage
 
 Invoke the web interface as follows:
@@ -41,6 +33,20 @@ Invoke the web interface as follows:
 > streamlit run fintech_finder.py
 
 ---
+
+## Results
+
+> Initial state (before transaction)
+![app](Images/prior_balances.png)
+
+> Select Fintech Professional, hire him and pay him
+![app](Images/transaction.png)
+
+> Post transaction balances
+![app](Images/new_balances.png)
+
+---
+
 ## Contributors
 
 Main author is : Pravin Patil. His linkedin profile is [Profile](https://www.linkedin.com/in/pravin-patil-5880301)
