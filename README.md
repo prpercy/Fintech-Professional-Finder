@@ -44,6 +44,7 @@ Invoke the web interface as follows:
 > Select Fintech Professional, hire him and pay him
 (Ash was hired for 10 hours. That would cost approx. 3.3 ETH. Ash's prior balance was 133 ETH before this transaction.)
 ![app](Images/transaction.png)
+![app](Images/transaction_ganache.png)
 
 > Post transaction balances
 (After Ash was hired and paid, his new balance would be 136.3 ETH = 133 ETH Prior balance + 3.3 ETH paid now; App's balance reduces from 65 ETH to 61.7 ETH = 65 - 3.3)
