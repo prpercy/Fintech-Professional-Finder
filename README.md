@@ -15,7 +15,8 @@ The goal of the program is to achieve following:
 
 ## Technologies
 
-> Program uses Python 3.7.x version and Jupyter Lab
+> Program uses Python 3.7.x version and Jupyter Lab.
+
 > Program uses libraries: bip44 (to work with Wallet), web3 (to work with ethereum account, gas strategy and related items),streamlit (to build web interface) and dataclasses (to create classes)
 
 ---
@@ -45,7 +46,7 @@ Invoke the web interface as follows:
 ![app](Images/transaction.png)
 
 > Post transaction balances
-(After Ash was hired and paid, the new balance would be 136.3 ETH = 133 ETH Prior balance + 3.3 ETH paid now)
+(After Ash was hired and paid, his new balance would be 136.3 ETH = 133 ETH Prior balance + 3.3 ETH paid now; App's balance reduces from 65 ETH to 61.7 ETH = 65 - 3.3)
 ![app](Images/new_balances.png)
 
 
